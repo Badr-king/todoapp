@@ -1,0 +1,23 @@
+.Task{
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  width: 50%;
+  padding: 1.5px;
+  border-bottom: black solid 2px; 
+}
+.Task h4{
+    max-width: 30%;
+    word-wrap: break-word;
+}
+.done-btn{
+    height: 50%;
+}
+.Task_number{
+    color: rgb(255,77,0);
+}
+.Taskdiv{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
